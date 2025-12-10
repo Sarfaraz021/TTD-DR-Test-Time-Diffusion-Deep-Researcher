@@ -1,7 +1,7 @@
 """Main Entry Point for TTD-DR Feasibility Agent.
 
 Usage:
-    python run.py --address "123 Main St, San Francisco, CA" --brief "80-unit multifamily"
+    python run.py -- address "123 Main St, San Francisco, CA" --brief "80-unit multifamily"
     python run.py --address "456 Oak Ave, Austin, TX"
 """
 
